@@ -28,7 +28,7 @@ public class tes {
 		TwitterFactory tf = new TwitterFactory(cb.build());
 		Twitter twitter = tf.getInstance();
 		try {
-		    Query query = new Query("FURB");
+		    Query query = new Query("askjack");
 		    QueryResult result;
 		    do {
 		        result = twitter.search(query);
