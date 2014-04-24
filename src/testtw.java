@@ -17,8 +17,8 @@ public class testtw {
 		
 		OAuthService service = new ServiceBuilder()
         .provider(TwitterApi.SSL.class)
-        .apiKey("9wCm1u34L3pLVYnvOiFIKPHSi")
-        .apiSecret("SoqKvwPy2pi19twgc82qBENGOeuJhCkLQOXpebTbBYXkCdVNLk")
+        .apiKey("")
+        .apiSecret("")
         .build();
 		
 		 Scanner in = new Scanner(System.in);
