@@ -14,10 +14,10 @@ public class tes {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		final String TWITTER_CONSUMER_KEY = "9wCm1u34L3pLVYnvOiFIKPHSi";
-		final String TWITTER_SECRET_KEY = "SoqKvwPy2pi19twgc82qBENGOeuJhCkLQOXpebTbBYXkCdVNLk";
-		final String TWITTER_ACCESS_TOKEN = "2460706994-2ztrCLNxNYe574qQJBJVQdVjlFm2bOI3yxA8cdO";
-		final String TWITTER_ACCESS_TOKEN_SECRET = "qXt2Mm78vRTOahtWqyfqgVAWdpjH5augH6LztptZh5zQf";
+		final String TWITTER_CONSUMER_KEY = "";
+		final String TWITTER_SECRET_KEY = "";
+		final String TWITTER_ACCESS_TOKEN = "";
+		final String TWITTER_ACCESS_TOKEN_SECRET = "";
 
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
